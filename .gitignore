@@ -3,4 +3,4 @@ db/app.db
 .env
 .env.test
 dist
-db/*db
+db/*db  
